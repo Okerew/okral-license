@@ -1,3 +1,3 @@
 okral-license
---------------
-License created for some fo my repos see LICENSE
+---------------
+License created for some of my repos see LICENSE
